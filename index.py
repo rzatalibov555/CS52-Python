@@ -1,74 +1,71 @@
-# https://www.youtube.com/watch?v=Z1DIwpM5q9A
-
-# x = 5
-# y = "John"
-# print(x)
-# print(y)
 
 
-# x = 4       # x is of type int
-# x = "Sally" # x is now of type str
-# print(x)
-
-
-# x, y, z = "Orange", "Banana", "Cherry"
-# print(x)
-# print(y)
-# print(z)
-
-
-# x = y = z = "Orange"
-# print(x)
-# print(y)
-# print(z)
-
-
-# fruits = ["apple", "banana", "cherry"]
-# x, z = fruits
+# x = float(2)
+# x = float(15.5)
 
 # print(x)
 
-# print(z)
+# x = '''bugun bizim
+# ikinci dersimizdir'''
 
-# x = "Vaqif"
+# print(x[4])
 
-# def fullName():
+# y = "bananas dad asdasd asdasd asdasdasd"
+# print(len(y))
+
+# y = "Murad"
+
+# for x in "Murad":
 #     print(x)
 
-# fullName()
 
-# print(x)
-
-
-# x = {"name" : "John", "age" : 36}
+# txt = "The best things in life are free!"
 
 
-x = {"apple", "banana", "cherry"}
 
-# print(x)
+# print("free" in txt)
 
-# x = frozenset({"apple", "banana", "cherry"})
-# x = False
-# x = b"Hello"
-# x = bytearray(5)
-# x = memoryview(bytes(5))
-x = None
-print(type(x))
+# txt = "The Rza best things in life are free!"
 
-
-# x = ["a1", "a2"]
-
-# x = Array("a1", "a2")
-
-# x = ["apple", "banana", "cherry"]
-# x = list(("apple", "banana", "cherry"))
-
-
-# if 1 > 2:
-#     print("Five is greater than two!")
-# elif 6 > 9:
-#     print("Tester")
+# if "frees" in txt:
+#     print("Tapildi")
+# elif "Rza" in txt:
+#     print("Ahaa Bu ad orda Var")
+# elif "Rza1" in txt:
+#     print("Ahaa Bu ad orda Var")
+# elif "Rza2" in txt:
+#     print("Ahaa Bu ad orda Var")
+# elif "Rza3" in txt:
+#     print("Ahaa Bu ad orda Var")
+# elif "Rza4" in txt:
+#     print("Ahaa Bu ad orda Var")
+# elif "Rza5" in txt:
+#     print("Ahaa Bu ad orda Var")
 # else:
-#     print("sdsdsd")
-#     #print("Hello, World!")
-# print("Cheers, Mate!")
+#     print("Tapilmadi")
+
+# if "are" in txt
+
+# txt = "The best things in life are free!"
+
+# print("are" not in txt)
+
+# if "Life" not in txt:
+#   print("2")
+
+
+
+# x = "HelloWorld"
+# print(x[:-5])
+
+
+# a = "Murad"
+# b = "Babayev"
+
+# c = a + " " + b
+# print(c)
+
+
+age = 36
+txt = f"My name is John, I am {age:.2f}"
+print(txt)
