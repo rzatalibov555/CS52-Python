@@ -66,6 +66,67 @@
 # print(c)
 
 
-age = 36
-txt = f"My name is John, I am {age:.2f}"
-print(txt)
+# age = 36
+# txt = f"My name is John, I am {age}"
+# print(txt)
+
+
+# x  = "Murad"
+# print(x)
+
+# def myFunc():
+#     global x
+#     print(x)
+#     x = "demo"
+#     print(x)
+
+# myFunc()
+
+
+
+
+# mylist = ["apple", "banana", "cherry","apple"]
+# mylist.append("Ayxan")
+# # mylist[2] = "Ayxan"
+# print(mylist)
+
+# print(mylist[2])
+# print(len(mylist))
+
+
+
+# thislist = ["apple", "banana", "cherry","apple2", "banana2", "cherry2","apple3", "banana3", "cherry3"]
+# print(thislist[:])
+
+
+# thislist = ["apple", "banana", "cherry"]
+# if "apple" in thislist:
+#   print("Yes")
+# else:
+#   print("No")
+
+# thislist = ["apple", "banana", "cherry"]
+# thislist[1] = "Demo"
+
+
+
+# thislist = ["apple", "banana", "cherry","kiwi", "orange"]
+
+# thislist[2:4] = ["Red","Blue"]
+
+# print(thislist)
+
+
+
+# thislist = ["apple", "banana", "cherry"]
+
+# thislist[1:3] = ["watermelon"]
+
+# print(thislist)
+
+
+thislist = ["Murad", "Vaqif","2","3","4","5","Aytac"]
+
+thislist.insert(6,"GPT MUrad")
+
+print(thislist)
