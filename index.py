@@ -125,8 +125,60 @@
 # print(thislist)
 
 
-thislist = ["Murad", "Vaqif","2","3","4","5","Aytac"]
+# thislist = ["Murad", "Vaqif","2","3","4","5","Aytac"]
 
-thislist.insert(6,"GPT MUrad")
+# thislist.insert(6,"GPT MUrad")
 
-print(thislist)
+# print(thislist)
+
+
+# &&    AND
+# ||    OR
+# !     NOT
+# thislist = ["apple", "banana", "cherry"]
+# print(thislist)
+
+# for x in thislist:
+#   print(x)
+
+
+
+
+# thislist = ["apple", "banana", "cherry"]
+# mylist = thislist.copy()
+# print(mylist)
+
+
+# thislist = ["apple", "banana", "cherry"]
+# mylist = list(thislist)
+# print(mylist)
+
+
+# thislist = ["apple", "banana", "cherry"]
+# mylist = thislist[:]
+# print(id(thislist))
+# print(id(mylist))
+
+
+
+
+# list1 = ["a", "b", "c"]
+# list2 = [1, 2, 3]
+
+# list3 = list1 + list2
+# print(list3)
+
+
+
+
+# list1 = ["a", "b" , "c"]
+# list2 = [1, 2, 3]
+
+# for x in list1:
+#   list2.append(x)
+
+# print(list2)
+
+
+
+
