@@ -52,6 +52,11 @@
 
 
 
-text  = ["Murad","Vaqif","Aytac","GPT","Rza","Ayxan"]
+text  = ("Murad","Vaqif","Aytac","GPT","Rza","Ayxan")
 text.sort(reverse=True)
-print(text)
+print(text[0])
+
+# tuple
+# list // Massiv
+# {} - set
+
